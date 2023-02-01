@@ -1,0 +1,16 @@
+.Container{
+    width: 100vw;
+    height: 100vh;
+}
+
+.cart{
+    display: flex;
+}
+.cart div{
+    /* width: 1000px; */
+    /* flex-wrap: wrap; */
+}
+.header{
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,13 @@
+.top{
+    display: flex;
+    justify-content: space-between;
+}
+.header{
+    display: flex;
+    justify-content: center;
+}
+.page{
+    display: flex;
+    margin-right: 30px;
+    justify-content: space-evenly;
+}

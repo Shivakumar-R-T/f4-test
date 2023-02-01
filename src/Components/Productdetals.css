@@ -1,0 +1,28 @@
+ .item-container{
+   
+    margin: 0 auto;
+    margin-bottom:4rem ;
+}
+.items{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.item{
+    width:250px;
+    height: 350px;
+    margin:10px;
+    border: 1px solid green;
+    /* object-fit:cover; */
+    
+    /* display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; */
+}
+.btn{
+    z-index:1;
+    /* position: absolute; */
+    
+    /* bottom: 0px; */
+}
